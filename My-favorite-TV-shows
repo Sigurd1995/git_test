@@ -1,0 +1,31 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Places id like to visit</title>
+    </head>
+
+    <body>
+        <h1>Asia</h1>
+        <p>
+            <ul>
+                <li>Borneo</li>
+                <li>South Korea</li>
+                <li>Taiwan</li>
+            </ul>
+        </p>
+        
+        <h2>Africa</h2>
+        <p>
+            <ul>
+                <li>South Africa</li>
+                <ul>
+                    <li>Cape Town</li>
+                    <li>Johannesburg</li>
+                </ul>
+                <li>Kenya</li>
+                <li>Tanzania</li>
+            </ul>
+        </p>
+    </body>
+</html>
